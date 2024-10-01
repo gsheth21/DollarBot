@@ -135,7 +135,7 @@ dmypy.json
 expense_record.json
 
 # API keys
-user.properties
+# user.properties
 
 # Virtual environment files
 myenv/*
