@@ -14,7 +14,7 @@ idna==3.4
 iniconfig==2.0.0
 jproperties==2.1.1
 kiwisolver==1.4.5
-matplotlib==3.8.2
+matplotlib
 mccabe==0.7.0
 mock==5.1.0
 numpy==1.26.2
